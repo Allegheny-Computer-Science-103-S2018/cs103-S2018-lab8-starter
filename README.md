@@ -41,8 +41,8 @@ the gallery by reviewing the assignment sheet. For instance, you will need to
 type the command `man convert` and `man ls` to learn how to use the `convert`
 and `ls` commands to manipulate the images in your gallery. As before, this
 assignment requires you to run a web server to provide local access to the
-static web site, specifically loading the default document, and then inspect
-and fully understand the contents of the image gallery. Finally, you will
+static web site, specifically loading the default document, and then inspecting
+and fully understanding the contents of the image gallery. Finally, you will
 continue to practice using the [HTMLHint](http://htmlhint.com/) static analysis
 code tool that can check HTML files for potential errors.
 
