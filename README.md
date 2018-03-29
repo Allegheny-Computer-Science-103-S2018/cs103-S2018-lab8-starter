@@ -136,9 +136,9 @@ typing `cd ..` and then continuing your work.
 In addition to making the checks that were previously mentioned in the
 introduction to this document, your final submission must meet the following
 requirements. Specifically, GatorGrader will check for the existence of the
-`reflection.md` file in the `writing` directory and, respectively, the existence
+`reflection.md` file in the `writing/` directory and, respectively, the existence
 of `index.html` in the `src/www/` directory, `site.css` in the `src/www/css/`
-directory, and `screenshot.png` in the `images` directory.
+directory, and `screenshot.png` in the `images/` directory.
 
 ## Updates
 
