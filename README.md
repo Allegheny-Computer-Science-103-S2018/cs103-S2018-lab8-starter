@@ -39,8 +39,8 @@ responsible for designing, implementing, and testing this image gallery. With
 that said, you can learn more about the steps that you should take to implement
 the gallery by reviewing the assignment sheet. For instance, you will need to
 type the command `man convert` and `man ls` to learn how to use the `convert`
-and `ls` commands to understand and convert images for your gallery. As before,
-this assignment requires you to run a web server to provide local access to the
+and `ls` commands to manipulate the images in your gallery. As before, this
+assignment requires you to run a web server to provide local access to the
 static web site, specifically loading the default document, and then complete
 the survey and check your email for the result. Finally, you will continue to
 practice using the [HTMLHint](http://htmlhint.com/) static analysis code tool
