@@ -41,10 +41,10 @@ the gallery by reviewing the assignment sheet. For instance, you will need to
 type the command `man convert` and `man ls` to learn how to use the `convert`
 and `ls` commands to manipulate the images in your gallery. As before, this
 assignment requires you to run a web server to provide local access to the
-static web site, specifically loading the default document, and then complete
-the survey and check your email for the result. Finally, you will continue to
-practice using the [HTMLHint](http://htmlhint.com/) static analysis code tool
-that can check HTML files for potential errors.
+static web site, specifically loading the default document, and then inspect
+and fully understand the contents of the image gallery. Finally, you will
+continue to practice using the [HTMLHint](http://htmlhint.com/) static analysis
+code tool that can check HTML files for potential errors.
 
 The programmer is also responsible for writing a reflection, stored in the file
 `writing/reflection.md`, that responds to the questions in the assignment sheet
